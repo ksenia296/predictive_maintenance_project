@@ -22,4 +22,4 @@
 ## Видео-демонстрация
 https://github.com/ksenia296/predictive_maintenance_project/blob/main/video/demo.mp4 или встроенное видео ниже:
 
-https://github.com/user-attachments/assets/1317b2b4-67a6-4b92-960d-0c2aa8324ad0
+https://github.com/user-attachments/assets/185608469/demo.mp4
