@@ -21,4 +21,5 @@
 
 ## Видео-демонстрация
 [Ссылка на видео](video/demo.mp4) или встроенное видео ниже:
+
 <video src="video/demo.mp4"controls width="100%"></video>
